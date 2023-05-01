@@ -9,7 +9,7 @@ export const Navbar = () => {
         <div>
           <Link to='/' className='mr-2 hover:font-semibold transition-all'>Acasa</Link>
           <Link to='/level' className='mr-2 hover:font-semibold transition-all'>Nivele</Link>
-          <Link to='/hardship' className='hover:font-semibold transition-all'>Paradigme</Link>
+          <Link to='/paradigms' className='hover:font-semibold transition-all'>Paradigme</Link>
         </div>
       </div>
     </nav>
